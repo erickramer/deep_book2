@@ -1,0 +1,6 @@
+logs
+venv
+data
+deepbook.egg-info
+notebooks/.ipynb_checkpoints
+*pyc
